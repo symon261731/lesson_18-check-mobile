@@ -648,4 +648,9 @@ html {
   [class*="__container"] {
     max-width: none;
   }
+  .info__items{
+    flex-wrap: wrap;
+  }
+  .info__item{
+    flex: 1 0 auto;
 }
